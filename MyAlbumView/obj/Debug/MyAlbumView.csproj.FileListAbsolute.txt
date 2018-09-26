@@ -1,0 +1,136 @@
+C:\Users\dks50217\source\repos\MyAlbumView\MyAlbumView\bin\Debug\MyAlbumView.exe.config
+C:\Users\dks50217\source\repos\MyAlbumView\MyAlbumView\bin\Debug\MyAlbumView.exe
+C:\Users\dks50217\source\repos\MyAlbumView\MyAlbumView\bin\Debug\MyAlbumView.pdb
+C:\Users\dks50217\source\repos\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.csprojAssemblyReference.cache
+C:\Users\dks50217\source\repos\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.AlbumManagement.resources
+C:\Users\dks50217\source\repos\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.Properties.Resources.resources
+C:\Users\dks50217\source\repos\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.csproj.GenerateResource.cache
+C:\Users\dks50217\source\repos\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.csproj.CoreCompileInputs.cache
+C:\Users\dks50217\source\repos\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.exe
+C:\Users\dks50217\source\repos\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.pdb
+C:\Users\dks50217\Desktop\MyAlbumXps\MyAlbumView\MyAlbumView\bin\Debug\MyAlbumView.exe.config
+C:\Users\dks50217\Desktop\MyAlbumXps\MyAlbumView\MyAlbumView\bin\Debug\MyAlbumView.exe
+C:\Users\dks50217\Desktop\MyAlbumXps\MyAlbumView\MyAlbumView\bin\Debug\MyAlbumView.pdb
+C:\Users\dks50217\Desktop\MyAlbumXps\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.csprojAssemblyReference.cache
+C:\Users\dks50217\Desktop\MyAlbumXps\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.Properties.Resources.resources
+C:\Users\dks50217\Desktop\MyAlbumXps\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.csproj.GenerateResource.cache
+C:\Users\dks50217\Desktop\MyAlbumXps\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.csproj.CoreCompileInputs.cache
+C:\Users\dks50217\Desktop\MyAlbumXps\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.exe
+C:\Users\dks50217\Desktop\MyAlbumXps\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.pdb
+C:\Users\dks50217\Desktop\MyAlbumXps\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.Form1.resources
+C:\Users\dks50217\Desktop\MyAlbumXps\MyAlbumView\MyAlbumView\bin\Debug\MyAlbum.mdf
+C:\Users\dks50217\Desktop\MyAlbumXps\MyAlbumView\MyAlbumView\bin\Debug\MyAlbum_log.ldf
+C:\Users\dks50217\Desktop\MyAlbumXps\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.PhotoDetail.resources
+C:\Users\dks50217\Desktop\Michael\MyAlbumXps\MyAlbumView\MyAlbumView\bin\Debug\MyAlbum.mdf
+C:\Users\dks50217\Desktop\Michael\MyAlbumXps\MyAlbumView\MyAlbumView\bin\Debug\MyAlbum_log.ldf
+C:\Users\dks50217\Desktop\Michael\MyAlbumXps\MyAlbumView\MyAlbumView\bin\Debug\MyAlbumView.exe.config
+C:\Users\dks50217\Desktop\Michael\MyAlbumXps\MyAlbumView\MyAlbumView\bin\Debug\MyAlbumView.exe
+C:\Users\dks50217\Desktop\Michael\MyAlbumXps\MyAlbumView\MyAlbumView\bin\Debug\MyAlbumView.pdb
+C:\Users\dks50217\Desktop\Michael\MyAlbumXps\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.csprojAssemblyReference.cache
+C:\Users\dks50217\Desktop\Michael\MyAlbumXps\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.AlbumManagement.resources
+C:\Users\dks50217\Desktop\Michael\MyAlbumXps\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.Form1.resources
+C:\Users\dks50217\Desktop\Michael\MyAlbumXps\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.PhotoDetail.resources
+C:\Users\dks50217\Desktop\Michael\MyAlbumXps\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.Properties.Resources.resources
+C:\Users\dks50217\Desktop\Michael\MyAlbumXps\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.csproj.GenerateResource.cache
+C:\Users\dks50217\Desktop\Michael\MyAlbumXps\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.csproj.CoreCompileInputs.cache
+C:\Users\dks50217\Desktop\Michael\MyAlbumXps\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.exe
+C:\Users\dks50217\Desktop\Michael\MyAlbumXps\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.pdb
+C:\Users\dks50217\Desktop\MyAlbumXps\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.AlbumDataSetTools.resources
+C:\Users\III\Desktop\MyAlbumXps\MyAlbumView\MyAlbumView\bin\Debug\MyAlbum.mdf
+C:\Users\III\Desktop\MyAlbumXps\MyAlbumView\MyAlbumView\bin\Debug\MyAlbum_log.ldf
+C:\Users\III\Desktop\MyAlbumXps\MyAlbumView\MyAlbumView\bin\Debug\MyAlbumView.exe.config
+C:\Users\III\Desktop\MyAlbumXps\MyAlbumView\MyAlbumView\bin\Debug\MyAlbumView.exe
+C:\Users\III\Desktop\MyAlbumXps\MyAlbumView\MyAlbumView\bin\Debug\MyAlbumView.pdb
+C:\Users\III\Desktop\MyAlbumXps\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.csprojAssemblyReference.cache
+C:\Users\III\Desktop\MyAlbumXps\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.AlbumDataSetTools.resources
+C:\Users\III\Desktop\MyAlbumXps\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.Form1.resources
+C:\Users\III\Desktop\MyAlbumXps\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.PhotoDetail.resources
+C:\Users\III\Desktop\MyAlbumXps\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.Properties.Resources.resources
+C:\Users\III\Desktop\MyAlbumXps\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.csproj.GenerateResource.cache
+C:\Users\III\Desktop\MyAlbumXps\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\MyAlbumXps\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.exe
+C:\Users\III\Desktop\MyAlbumXps\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.pdb
+C:\Users\III\Desktop\MyAlbumView\MyAlbumView\bin\Debug\MyAlbum.mdf
+C:\Users\III\Desktop\MyAlbumView\MyAlbumView\bin\Debug\MyAlbum_log.ldf
+C:\Users\III\Desktop\MyAlbumView\MyAlbumView\bin\Debug\MyAlbumView.exe.config
+C:\Users\III\Desktop\MyAlbumView\MyAlbumView\bin\Debug\MyAlbumView.exe
+C:\Users\III\Desktop\MyAlbumView\MyAlbumView\bin\Debug\MyAlbumView.pdb
+C:\Users\III\Desktop\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.csprojAssemblyReference.cache
+C:\Users\III\Desktop\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.AlbumDataSetTools.resources
+C:\Users\III\Desktop\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.Form1.resources
+C:\Users\III\Desktop\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.PhotoDetail.resources
+C:\Users\III\Desktop\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.Properties.Resources.resources
+C:\Users\III\Desktop\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.csproj.GenerateResource.cache
+C:\Users\III\Desktop\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.exe
+C:\Users\III\Desktop\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.pdb
+C:\Users\dks50217\Desktop\MyAlbumView\MyAlbumView\bin\Debug\MyAlbum.mdf
+C:\Users\dks50217\Desktop\MyAlbumView\MyAlbumView\bin\Debug\MyAlbum_log.ldf
+C:\Users\dks50217\Desktop\MyAlbumView\MyAlbumView\bin\Debug\MyAlbumView.exe.config
+C:\Users\dks50217\Desktop\MyAlbumView\MyAlbumView\bin\Debug\MyAlbumView.exe
+C:\Users\dks50217\Desktop\MyAlbumView\MyAlbumView\bin\Debug\MyAlbumView.pdb
+C:\Users\dks50217\Desktop\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.csprojAssemblyReference.cache
+C:\Users\dks50217\Desktop\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.AlbumDataSetTools.resources
+C:\Users\dks50217\Desktop\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.Form1.resources
+C:\Users\dks50217\Desktop\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.PhotoDetail.resources
+C:\Users\dks50217\Desktop\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.Properties.Resources.resources
+C:\Users\dks50217\Desktop\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.csproj.GenerateResource.cache
+C:\Users\dks50217\Desktop\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.csproj.CoreCompileInputs.cache
+C:\Users\dks50217\Desktop\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.exe
+C:\Users\dks50217\Desktop\MyAlbumView\MyAlbumView\obj\Debug\MyAlbumView.pdb
+C:\Users\dks50217\Desktop\MyAlbumViewwithdelete\MyAlbumView\bin\Debug\MyAlbum.mdf
+C:\Users\dks50217\Desktop\MyAlbumViewwithdelete\MyAlbumView\bin\Debug\MyAlbum_log.ldf
+C:\Users\dks50217\Desktop\MyAlbumViewwithdelete\MyAlbumView\bin\Debug\MyAlbumView.exe.config
+C:\Users\dks50217\Desktop\MyAlbumViewwithdelete\MyAlbumView\bin\Debug\MyAlbumView.exe
+C:\Users\dks50217\Desktop\MyAlbumViewwithdelete\MyAlbumView\bin\Debug\MyAlbumView.pdb
+C:\Users\dks50217\Desktop\MyAlbumViewwithdelete\MyAlbumView\obj\Debug\MyAlbumView.csprojAssemblyReference.cache
+C:\Users\dks50217\Desktop\MyAlbumViewwithdelete\MyAlbumView\obj\Debug\MyAlbumView.AlbumDataSetTools.resources
+C:\Users\dks50217\Desktop\MyAlbumViewwithdelete\MyAlbumView\obj\Debug\MyAlbumView.Form1.resources
+C:\Users\dks50217\Desktop\MyAlbumViewwithdelete\MyAlbumView\obj\Debug\MyAlbumView.PhotoDetail.resources
+C:\Users\dks50217\Desktop\MyAlbumViewwithdelete\MyAlbumView\obj\Debug\MyAlbumView.Properties.Resources.resources
+C:\Users\dks50217\Desktop\MyAlbumViewwithdelete\MyAlbumView\obj\Debug\MyAlbumView.csproj.GenerateResource.cache
+C:\Users\dks50217\Desktop\MyAlbumViewwithdelete\MyAlbumView\obj\Debug\MyAlbumView.csproj.CoreCompileInputs.cache
+C:\Users\dks50217\Desktop\MyAlbumViewwithdelete\MyAlbumView\obj\Debug\MyAlbumView.exe
+C:\Users\dks50217\Desktop\MyAlbumViewwithdelete\MyAlbumView\obj\Debug\MyAlbumView.pdb
+C:\Users\III\Desktop\MyAlbumViewwithdelete\MyAlbumView\bin\Debug\MyAlbum.mdf
+C:\Users\III\Desktop\MyAlbumViewwithdelete\MyAlbumView\bin\Debug\MyAlbum_log.ldf
+C:\Users\III\Desktop\MyAlbumViewwithdelete\MyAlbumView\bin\Debug\MyAlbumView.exe.config
+C:\Users\III\Desktop\MyAlbumViewwithdelete\MyAlbumView\bin\Debug\MyAlbumView.exe
+C:\Users\III\Desktop\MyAlbumViewwithdelete\MyAlbumView\bin\Debug\MyAlbumView.pdb
+C:\Users\III\Desktop\MyAlbumViewwithdelete\MyAlbumView\obj\Debug\MyAlbumView.csprojAssemblyReference.cache
+C:\Users\III\Desktop\MyAlbumViewwithdelete\MyAlbumView\obj\Debug\MyAlbumView.AlbumDataSetTools.resources
+C:\Users\III\Desktop\MyAlbumViewwithdelete\MyAlbumView\obj\Debug\MyAlbumView.Form1.resources
+C:\Users\III\Desktop\MyAlbumViewwithdelete\MyAlbumView\obj\Debug\MyAlbumView.PhotoDetail.resources
+C:\Users\III\Desktop\MyAlbumViewwithdelete\MyAlbumView\obj\Debug\MyAlbumView.Properties.Resources.resources
+C:\Users\III\Desktop\MyAlbumViewwithdelete\MyAlbumView\obj\Debug\MyAlbumView.csproj.GenerateResource.cache
+C:\Users\III\Desktop\MyAlbumViewwithdelete\MyAlbumView\obj\Debug\MyAlbumView.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\MyAlbumViewwithdelete\MyAlbumView\obj\Debug\MyAlbumView.exe
+C:\Users\III\Desktop\MyAlbumViewwithdelete\MyAlbumView\obj\Debug\MyAlbumView.pdb
+C:\Users\III\Desktop\MyAlbum(With Code)\MyAlbumView\obj\Debug\MyAlbumView.csprojAssemblyReference.cache
+C:\Users\III\Desktop\MyAlbum(With Code)\MyAlbumView\obj\Debug\MyAlbumView.AlbumDataSetTools.resources
+C:\Users\III\Desktop\MyAlbum(With Code)\MyAlbumView\obj\Debug\MyAlbumView.Form1.resources
+C:\Users\III\Desktop\MyAlbum(With Code)\MyAlbumView\obj\Debug\MyAlbumView.PhotoDetail.resources
+C:\Users\III\Desktop\MyAlbum(With Code)\MyAlbumView\obj\Debug\MyAlbumView.Properties.Resources.resources
+C:\Users\III\Desktop\MyAlbum(With Code)\MyAlbumView\obj\Debug\MyAlbumView.csproj.GenerateResource.cache
+C:\Users\III\Desktop\MyAlbum(With Code)\MyAlbumView\obj\Debug\MyAlbumView.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\MyAlbum(With Code)\MyAlbumView\obj\Debug\MyAlbumView.exe
+C:\Users\III\Desktop\MyAlbum(With Code)\MyAlbumView\obj\Debug\MyAlbumView.pdb
+C:\Users\III\Desktop\MyAlbum(With Code)\MyAlbumView\bin\Debug\MyAlbum.mdf
+C:\Users\III\Desktop\MyAlbum(With Code)\MyAlbumView\bin\Debug\MyAlbum_log.ldf
+C:\Users\III\Desktop\MyAlbum(With Code)\MyAlbumView\bin\Debug\MyAlbumView.exe.config
+C:\Users\III\Desktop\MyAlbum(With Code)\MyAlbumView\bin\Debug\MyAlbumView.exe
+C:\Users\III\Desktop\MyAlbum(With Code)\MyAlbumView\bin\Debug\MyAlbumView.pdb
+C:\Users\dks50217\Desktop\MyAlbum(With Code)\MyAlbumView\bin\Debug\MyAlbum.mdf
+C:\Users\dks50217\Desktop\MyAlbum(With Code)\MyAlbumView\bin\Debug\MyAlbum_log.ldf
+C:\Users\dks50217\Desktop\MyAlbum(With Code)\MyAlbumView\bin\Debug\MyAlbumView.exe.config
+C:\Users\dks50217\Desktop\MyAlbum(With Code)\MyAlbumView\bin\Debug\MyAlbumView.exe
+C:\Users\dks50217\Desktop\MyAlbum(With Code)\MyAlbumView\bin\Debug\MyAlbumView.pdb
+C:\Users\dks50217\Desktop\MyAlbum(With Code)\MyAlbumView\obj\Debug\MyAlbumView.csprojAssemblyReference.cache
+C:\Users\dks50217\Desktop\MyAlbum(With Code)\MyAlbumView\obj\Debug\MyAlbumView.AlbumDataSetTools.resources
+C:\Users\dks50217\Desktop\MyAlbum(With Code)\MyAlbumView\obj\Debug\MyAlbumView.Form1.resources
+C:\Users\dks50217\Desktop\MyAlbum(With Code)\MyAlbumView\obj\Debug\MyAlbumView.PhotoDetail.resources
+C:\Users\dks50217\Desktop\MyAlbum(With Code)\MyAlbumView\obj\Debug\MyAlbumView.Properties.Resources.resources
+C:\Users\dks50217\Desktop\MyAlbum(With Code)\MyAlbumView\obj\Debug\MyAlbumView.csproj.GenerateResource.cache
+C:\Users\dks50217\Desktop\MyAlbum(With Code)\MyAlbumView\obj\Debug\MyAlbumView.csproj.CoreCompileInputs.cache
+C:\Users\dks50217\Desktop\MyAlbum(With Code)\MyAlbumView\obj\Debug\MyAlbumView.exe
+C:\Users\dks50217\Desktop\MyAlbum(With Code)\MyAlbumView\obj\Debug\MyAlbumView.pdb
